@@ -1,6 +1,6 @@
 # Advanced Java Practice Plan
 
-This repository contains advanced Java practice questions to help refine Java programming skills, focusing on core Java, OOP principles, design patterns, and memory management. These questions are designed for developers with experience in Java, C, and Flutter.
+This repository contains advanced Java practice questions to help refine Java programming skills, focusing on core Java, OOP principles, design patterns, and memory management. These questions are designed for developers with some experience in Java.
 
 ## Practice Plan Overview
 
